@@ -1,0 +1,60 @@
+# =========================
+# Carpetas generadas por Unity
+# =========================
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# =========================
+# Archivos generados automáticamente
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# =========================
+# Visual Studio / VS Code
+# =========================
+.vscode/
+.idea/
+*.vs/
+
+# =========================
+# Archivos del sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos de compilación
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Crash Reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Archivos ocultos de Mac
+# =========================
+._*
+
+# =========================
+# Otros
+# =========================
+*.log
+*.bak
+*.cache
